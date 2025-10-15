@@ -1,0 +1,6 @@
+Idea proposal: Good topic
+Literature review: You can add the value your project aims to add to the existence solutions that you mentioned in your review.
+Concept Note: Reorganization of your concept note, you want to implement a NLP solution, so define clearly which models are you going to use and the reasons of your choice has to be explained.
+Data prep: For data preparation, you must explore your data, describe your data dictionary, make visuals so that we can comprehend the behavior of your data. Have you proceeded any data cleaning? You must specify all aspects of a Data preparation for this part.
+Model refinement: We need to understand the weakness of your models and how do you proceed for the refinement, feature engineering, adding more data or etc... You should specify. 
+Deployment: Think about a web-based application to illustrate your project.
